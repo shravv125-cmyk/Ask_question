@@ -127,4 +127,3 @@ As this is my first RAG project, I wanted to understand how AI assistants work b
 
 ---
 
-For a first RAG project, this is genuinely a solid foundation—you’re already working with the same core ideas used in production document assistants.
