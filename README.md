@@ -30,6 +30,10 @@ Output: AI-generated explanation from the uploaded notes
 
 ---
 
+## ScreenShot 
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/aa967339-3f2d-45f4-9ff1-a04390addedf" />
+
+
 ## Technologies Used
 
 ### Backend
