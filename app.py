@@ -42,7 +42,7 @@ def load_pdf(file_path):
     return text
 
 # Split text into chunks
-def split_text_words(text,chunk_size=120,overlap=10):
+def split_text_words(text,chunk_size=200,overlap=15):
     words=text.split()
     chunks=[]
     start=0
@@ -227,7 +227,7 @@ Answer the question using ONLY the context below.
 Give a detailed answer in simple language.
 
 Rules:
-1. Explain in 5-8 lines.
+1. Explain in 10-15 lines.
 2. Include definition.
 3. Explain working/process.
 4. Include important points if available.
